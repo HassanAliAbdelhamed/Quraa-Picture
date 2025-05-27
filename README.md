@@ -1,5 +1,4 @@
-# Quraa-Picture
+# صور قرآء القرآن الكريم
 
-## Description
-This repository contains over 100 images of Quran reciters, which you can explore and utilize.
+## هذا الريبو يحتوي علي صور كبار قرآء القرآن الكريم في المجتمع العربي والاسلامي
 
